@@ -1,5 +1,4 @@
-![Helm Logo](./assets/helm.png)
-![Otus Logo](./assets/logo.png)     
+![Otus Logo](./assets/logo.png)![Helm Logo](./assets/helm.png)     
 
 # Доставка микросервисов вместе с Helm Charts   
 
