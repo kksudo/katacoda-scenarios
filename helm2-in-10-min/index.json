@@ -30,9 +30,10 @@
     }
   },
   "environment": {
+    "hideintro": true,
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "kubernetes"
+    "imageid": "kubernetes-cluster-running:1.18"
   }
 }
