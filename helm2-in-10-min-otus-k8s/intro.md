@@ -1,6 +1,6 @@
 ![Otus Logo](./assets/logo.png)![Helm Logo](./assets/helm.png)     
 
-# Доставка микросервисов вместе с Helm Charts   
+# Доставка микросервисов вместе с Helm Charts (k8s cluster)   
 
 ## Шаги, которые необходимы для прохождения задания
 

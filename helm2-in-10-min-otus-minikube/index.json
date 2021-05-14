@@ -1,5 +1,5 @@
 {
-  "title": "Helm (v2) Package Manager learning for Otus",
+  "title": "Helm (v2) Package Manager learning for Otus (k8s minikube)",
   "description": "Learn how to get started with Helm v2, deploy nginx on Minikube Kubernetes.",
   "difficulty": "Beginner",
   "time": "10 minutes",
