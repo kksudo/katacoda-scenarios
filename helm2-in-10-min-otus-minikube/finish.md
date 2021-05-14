@@ -1,12 +1,3 @@
-Start using the Minikube environment for your content by setting the `imageid` to `minikube`.
+# Отлично, у вас получилось познакомиться с HELM v2
 
-For example:
-
-<pre class="file">
-"environment": {
-  "uilayout": "terminal"
-},
-"backend": {
-  "imageid": "minikube"
-}
-</pre>
+Продолжайте дальше, чтобы достичь наиболее полных навыков для работы с микросевисами.

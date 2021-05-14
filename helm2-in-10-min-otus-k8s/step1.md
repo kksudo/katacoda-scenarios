@@ -8,5 +8,8 @@
 tar -zxvf helm-v2.17.0-linux-amd64.tar.gz
 mv linux-amd64/helm /usr/local/bin/helm`{{execute}}
 1. Устанавливаем серверную часть `helm init`{{execute}}
-    1. Проверяем установился ли helm `helm version`{{execute}}
-        1. В выводе должна быть указана версия HELM на сервере и локальная
+    1. Проверяем установился ли helm `helm version`{{execute}}  
+       В выводе должна быть указана версия HELM на сервере и локальная
+       `Client: &version.Version{SemVer:"v2.17.0", GitCommit:"a690bad98af45b015bd3da1a41f6218b1a451dbe", GitTreeState:"clean"}
+Server: &version.Version{SemVer:"v2.17.0", GitCommit:"a690bad98af45b015bd3da1a41f6218b1a451dbe", GitTreeState:"clean"}`     
+       Если серверная часть возвращает ошибку, то нужно подождать пока поднимутся поды.

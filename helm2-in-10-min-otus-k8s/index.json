@@ -31,7 +31,7 @@
   },
   "environment": {
     "showdashboard": true,
-    "dashboards": [{"name": "Check the nginx welcome page on the 8080 port", "port": 8080}],
+    "dashboards": [{"name": "Check nginx", "port": 8080}],
     "uilayout": "terminal"
   },
   "backend": {
